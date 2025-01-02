@@ -4,3 +4,5 @@
 theme: minima
 title: Jocelyne Shimin Sze
 description: A space to think and reflect
+header_pages: 
+  - about.md
