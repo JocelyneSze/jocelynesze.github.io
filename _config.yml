@@ -1,8 +1,18 @@
 # file for configuring how GitHub publishes the Jekyll site
 # themes I like: dinky, minima, minimal, 
 
-theme: minima
-title: Jocelyne Shimin Sze
+title: Jocelyne's blog
 description: A space to think and reflect
+author: Jocelyne Shimin Sze
+
+theme: minima
+
+# Minima social links
+# find the Twitter one
+github_username: JocelyneSze
+# linkedin_username: jsanz
+rss: rss
+
+# Minima: custom header links
 header_pages: 
-  - about.md
+  - _pages/about.md
