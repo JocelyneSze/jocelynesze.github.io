@@ -11,7 +11,7 @@ description: A space to think and reflect
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
-remote_theme: jekyll-minima
+theme: minima
 
 plugins:
   - jekyll-feed
