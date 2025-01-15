@@ -13,6 +13,10 @@ description: A space to think and reflect
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima
 
+# need to include page cos default doesnt include it
+include:
+  - _pages
+  
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
