@@ -5,15 +5,15 @@ title: Jocelyne Sze
 author: 
   name: Jocelyne Shimin Sze
   email: jocelyne.sze@gmail.com
-
 description: A space to think and reflect
-
+baseurl: ""
+url: jocelynesze.github.io
 # avatar: to be added after I push the changes to git and have a url to add
 
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
-theme: minima
+remote_theme: jekyll/minima
 
 plugins:
   - jekyll-feed
@@ -48,7 +48,7 @@ minima:
   date_format: "%d-%m-%Y"
 
   # Generate social links in footer.
-  #social_links:
+  social_links:
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
