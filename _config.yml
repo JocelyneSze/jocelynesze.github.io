@@ -6,14 +6,12 @@ author:
   name: Jocelyne Shimin Sze
   email: jocelyne.sze@gmail.com
 description: A space to think and reflect
-baseurl: ""
-url: jocelynesze.github.io
 # avatar: to be added after I push the changes to git and have a url to add
 
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
-remote_theme: jekyll/minima
+theme: minima
 
 plugins:
   - jekyll-feed
@@ -25,6 +23,7 @@ plugins:
 # in order as they should show up.
 header_pages: 
   - _pages/about.md
+  - _pages/cv.md
   - _pages/de-reading-list.md
 
 # Set to `true` to show excerpts on the homepage.
