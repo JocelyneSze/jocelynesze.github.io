@@ -1,1 +1,1 @@
-Trying to figure out how to build a blog on GitHub Pages
+I've been wanting to move off Wordpress for a personal website/blog for a while, and finally committed the time and effort to learning to use GitHub Pages with Jekyll theme. Getting this to the current look has taken about 4-5 days of tinkering about on GitHub/R Studio/terminal/Stack Overflow pages. 
