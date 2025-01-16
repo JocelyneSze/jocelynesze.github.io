@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /JSS-cv/
+permalink: /cv/
 date: 16-01-2025
 params:
   pdf_mode:
