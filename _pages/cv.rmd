@@ -2,7 +2,7 @@
 layout: page
 title: CV
 permalink: /JSS-cv/
-date: "`r Sys.Date()`"
+date: 16-01-2025
 params:
   pdf_mode:
     value: false
@@ -88,7 +88,7 @@ Made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
 The source code is available [on github.com/nstrayer/cv](https://github.com/nstrayer/datadrivencv).
 
-Last updated on `r Sys.Date()`.
+Last updated on {{ page.date }}.
 
 
 
