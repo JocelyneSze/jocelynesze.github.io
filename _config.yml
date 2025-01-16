@@ -7,10 +7,11 @@ author:
 description: A space to think and reflect
 # avatar: to be added after I push the changes to git and have a url to add
 
-# Build settings
+# Build settings. I don't know what a gem file is but I copied the files from minima v3
 
 # If you clone the Minima repo and build locally, use this setting.
-theme: minima
+# theme: minima 
+remote_theme=jekyll/minima
 
 # need to include page cos default doesnt include it
 include:
