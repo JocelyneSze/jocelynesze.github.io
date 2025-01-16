@@ -1,6 +1,7 @@
 ---
-title: "Jocelyne Shimin Sze's CV"
-author: Jocelyne Shimin Sze
+layout: page
+title: CV
+permalink: /JSS-cv/
 date: "`r Sys.Date()`"
 params:
   pdf_mode:
