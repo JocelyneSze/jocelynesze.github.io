@@ -4,8 +4,6 @@ title: De- reading list
 permalink: /de-reading-list/
 ---
 
-De- Reading List
-
   A selection of books I’ve really enjoyed reading in recent years around the topics of degrowth, decolonisation, deconstructing the present neoliberal political economy etc. and how we can re-imagine a better and more just world. Mostly for myself to keep track as I’ve a terrible memory for these things.
 
 Ecology and Relations
