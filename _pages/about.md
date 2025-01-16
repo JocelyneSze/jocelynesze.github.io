@@ -1,6 +1,8 @@
+---
 layout: page
 title: "About"
-permalink: /about
+permalink: /about/
+---
 
 Hi, thanks for visiting this site. I use it mostly as a journal for reflection on my work, the reality I experience, and also to expunge emotions I feel/opinions I have. I have been maintaining a blog (on various sites and under various site names) since 2006, and find that writing really helps clarify my thoughts, although in recent years, my writing volume has much reduced.
 
