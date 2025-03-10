@@ -4,6 +4,8 @@ title: Thoughts
 permalink: /thoughts/
 ---
 
+Trying to figure out how to list my posts here... 
+
 <ul>
   {% for post in site.posts %}
     <li>
