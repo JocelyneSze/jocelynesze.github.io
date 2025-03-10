@@ -2,7 +2,7 @@
 layout: post
 title: "New phase, new site"
 date: 2025-03-10 21:00:00 -0000
-categories: life
+tag: life
 ---
 
 I first started blogging online in my teens on Blogger, then moved to WordPress in my 20s, and since I'm now in the third decade of my life, decided it's time to move to GitHub Pages. Each of those phases in life had a particular meaning to me, different learnings in life. And I had always felt compelled to write and share those thoughts with an unknown wider world.
