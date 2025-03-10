@@ -9,3 +9,6 @@ I am presently interested in shifting dominant paradigms to create a more just a
 I am rooting for a world where economic growth does not hold a central and dominant force in shaping our realities, where we acknowledge our history and privilege and seek not to abuse power or exacerbate injustices, where different ways of perceiving, valuing, understanding and living are respected, where we live sufficiently and in harmony with the living planet, without the false dichotomy between human and non-human nature. All that said, the majesty of mountains and sublimity of the sea never fail to captivate me.
 
 I can be contacted at jocelyne[dot]sze[at]gmail[dot]com
+
+
+[Note 10 Mar 2025: I cannot figure why there appears to be a link to my post below but it doesn't come out right. I'm still trying to figure out GitHub Pages and Jekyll... ]
