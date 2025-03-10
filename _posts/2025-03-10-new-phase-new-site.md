@@ -1,0 +1,16 @@
+---
+layout: post
+title: "New phase, new site"
+date: 2025-03-10 21:00:00 -0000
+categories: life
+---
+
+I first started blogging online in my teens on Blogger, then moved to WordPress in my 20s, and since I'm now in the third decade of my life, decided it's time to move to GitHub Pages. Each of those phases in life had a particular meaning to me, different learnings in life. And I had always felt compelled to write and share those thoughts with an unknown wider world.
+
+Sometimes, I still feel that compulsion to blog and share my thoughts. Sometimes inertia keeps hold of me, and I can't be bothered cleaning up my thoughts to write them in a comprehensible manner. Increasingly though, I worry about where these writings might end up. Like getting scraped by some bot to feed information-hungry (any information!) AI models.
+
+I still try to read, I read a jumble of things. A book on the (prelude to the) Opium War (really engaging non-fiction, I like Stephen Platt's style of writing - check out [Imperial Twilight](https://en.wikipedia.org/wiki/Imperial_Twilight)); a book on the colonial stereotypes of Southeast Asians by [Syed Hussein Alatas](https://archive.org/details/mythoflazynative0000alat); a book on a bunch of American tourists in Burma set in the early 2000s "Amy Tan's [Saving Fish From Drowning](https://en.wikipedia.org/wiki/Saving_Fish_from_Drowning)"; a book on hope by [Rebecca Solnit](http://rebeccasolnit.net/book/hope-in-the-dark-untold-histories-wild-possibilities/) that also largely speaks to happenings in the early 2000s (e.g. US invasion of Iraq). So timelines run around in my head, themes merge and fuse, stories of people across time and their feelings and the politics of the era, all of that just swim about amidst the current day news of continued Palestinian oppression and mindless murders, US funding cuts affecting programmes (people's lives and livelihoods and health and the environment) worldwide, cyclone damages and other climate-caused destruction, butterfly losses, etc. 
+
+But increasingly, and perhaps this sentiment is shared by others too, I no longer know if the future will remain as I've known it my whole life, or if something momentous, perhaps akin to the Opium War, is coming up. I chat with my parents about savings, and Duolingo Spanish keeps asking me "¿Por qué tus ahorros no están en el banco?", but even while the pragmatic part of me continues doing what everyone else does (have all  my money in the bank, use cards to make most transactions, live off wages etc.), a part of me wonders if this would keep going till "retirement age". Or, if like those dystopic novels written by Margaret Atwood (Oryx and Crake) and Octavia Butler (The Parable of the Sower), the future will just be chaos and living off the land as best we can. Which is certainly not what we're prepared to do right now.
+
+I just watched [this moving film](https://emergencemagazine.org/film/taste-of-the-land/) about a Cambodian-American woman finding her roots again, her family having fled the Pol Pot regime to the US when she was young, and going back to Cambodia's disappearing forests and connections to land and water. For someone like me, disapora Chinese from Singapore living in Spain, what does intimate connection to land mean? 

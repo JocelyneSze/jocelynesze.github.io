@@ -4,7 +4,7 @@
 title: Jocelyne Sze
 author: 
   name: Jocelyne Shimin Sze
-description: A space to think and reflect
+description: A place to think and reflect
 # avatar: to be added after I push the changes to git and have a url to add
 
 # Build settings. I don't know what a gem file is but I copied the files from minima v3
@@ -16,6 +16,7 @@ remote_theme: jekyll/minima
 # need to include page cos default doesnt include it
 include:
   - _pages
+  - _posts
   
 plugins:
 #  - jekyll-feed
@@ -29,6 +30,7 @@ header_pages:
   - _pages/about.md
   - _pages/cv.rmd
   - _pages/de-reading-list.md
+  - _pages/thoughts.md
 
 # Set to `true` to show excerpts on the homepage.
 show_excerpts: false
