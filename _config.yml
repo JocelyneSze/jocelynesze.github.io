@@ -1,7 +1,7 @@
 # file for configuring how GitHub publishes the Jekyll site
 # themes I like: dinky, minima, minimal, 
 
-title: Jocelyne Sze
+title: Jocelyne S Sze
 author: 
   name: Jocelyne Shimin Sze
 description: A place to think and reflect
@@ -27,7 +27,7 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages: 
-  - _pages/about.md
+ # - _pages/about.md
   - _pages/cv.rmd
   - _pages/de-reading-list.md
   - _pages/thoughts.md
