@@ -1,4 +1,4 @@
-Note: this site is still a work-in-progress. I am working on adding posts and some pages to reflect my research interests. 
+Note: this site is still a work-in-progress while I learn how GitHub Pages and Jekyll works. I am working on adding posts and some pages to reflect my research interests. 
 
 Hi, thanks for visiting this site. I use it mostly as a journal for reflection on my work, the reality I experience, and also to expunge emotions I feel/opinions I have. I have been maintaining a blog (on various sites and under various site names) since 2006, and find that writing really helps clarify my thoughts, although in recent years, my writing volume has much reduced.
 
@@ -11,4 +11,4 @@ I am rooting for a world where economic growth does not hold a central and domin
 I can be contacted at jocelyne[dot]sze[at]gmail[dot]com
 
 
-[Note 10 Mar 2025: I cannot figure why there appears to be a link to my post below but it doesn't come out right. I'm still trying to figure out GitHub Pages and Jekyll... ]
+Latest blogpost
