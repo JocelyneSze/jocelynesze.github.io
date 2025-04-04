@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How are you, in the Age of Depravity"
-date: 2025-04-04 14:26:00 -0000
+date: 2025-04-04 12:26:00 -0000
 tag: life
 categories: thoughts
 ---
