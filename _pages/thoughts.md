@@ -8,7 +8,10 @@ permalink: /thoughts/
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </h3>
       {{ post.excerpt }}
     </li>
   {% endfor %}
