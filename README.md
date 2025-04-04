@@ -13,4 +13,4 @@ I am rooting for a world where economic growth does not hold a central and domin
 I can be contacted at jocelyne[dot]sze[at]gmail[dot]com
 
 
-# H1 Latest blogpost
+# Latest blogpost
