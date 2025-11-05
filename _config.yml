@@ -29,6 +29,7 @@ plugins:
 header_pages: 
  # - _pages/about.md
   - _pages/cv.rmd
+  - _pages/research-interests.md
   - _pages/de-reading-list.md
   - _pages/thoughts.md
 
