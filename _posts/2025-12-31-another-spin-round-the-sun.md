@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Another spin round the sun"
-date: 2025-12-31 21:26:00 -0000
+date: 2025-12-31 14:15:00 +0100
 tag: life
 categories: thoughts
 ---
